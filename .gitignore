@@ -1,0 +1,4 @@
+TimeSeriesTutorial-Complete.ipynb
+venv/
+*.pyc
+.DS_Store
